@@ -1,5 +1,6 @@
 # Hi there, I'm Nichenametla Deekshita 👋
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/jp3i5m1XlabkDF9K0J/giphy.gif
+" width="100%" />
 
 
 ![Profile Banner](https://img.shields.io/badge/Student-3rd%20Year-blue?style=flat-square&logo=student)

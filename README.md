@@ -6,7 +6,8 @@
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Passion-orange?style=flat-square&logo=hackthebox)
 
 I'm a **3rd-year student** passionate about **Cyber Security** and always exploring new technologies.  
-Check out my [Resume](#) for more details!
+📄 Check out my **[Resume](https://github.com/NichenametlaDeekshita/Resume/raw/main/Deekshita_resume.pdf)** for more details!
+
 
 ---
 

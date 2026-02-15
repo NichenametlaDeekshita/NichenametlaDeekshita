@@ -1,5 +1,5 @@
 # Hi there, I'm Nichenametla Deekshita 👋
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+<img align="right" width="200" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" />
 
 
 

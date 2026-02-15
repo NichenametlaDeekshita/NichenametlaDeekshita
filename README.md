@@ -1,6 +1,6 @@
 # Hi there, I'm Nichenametla Deekshita 👋
 
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
 
 
 

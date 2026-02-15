@@ -16,8 +16,9 @@ I'm a **3rd-year student** passionate about **Cyber Security** and always explor
 - 🔭 I’m currently learning **advanced Cybersecurity techniques**  
 - 🌱 I’m currently exploring **penetration testing and ethical hacking**  
 - 💬 Ask me about **Java, Frontend development, and Cyber Security**  
-- 📫 How to reach me: [Email Me](mailto:your.email@example.com)  
-- ⚡ Fun fact: I love solving **CTFs** and exploring **vulnerabilities**  
+- 📫 How to reach me: [Email Me](mailto:deekshitadeeksh0105@gmail.com)  
+- ⚡ Fun fact: I love solving **CTFs** and exploring **vulnerabilities**
+
 
 ---
 

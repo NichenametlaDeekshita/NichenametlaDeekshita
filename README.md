@@ -1,4 +1,6 @@
 # Hi there, I'm Nichenametla Deekshita 👋
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 
 ![Profile Banner](https://img.shields.io/badge/Student-3rd%20Year-blue?style=flat-square&logo=student)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Passion-orange?style=flat-square&logo=hackthebox)

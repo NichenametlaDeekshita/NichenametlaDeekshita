@@ -1,8 +1,7 @@
 # Hi there, I'm Nichenametla Deekshita 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="100%" />
+
 
 
 

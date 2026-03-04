@@ -1,7 +1,8 @@
 # Hi there, I'm Nichenametla Deekshita 👋
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+</p>
 
 
 

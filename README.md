@@ -1,7 +1,7 @@
 # Hi there, I'm Nichenametla Deekshita 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6A0DAD&height=120&section=header&text=Deekshita&fontSize=40&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Black%20Theme/Black%20Theme%20Coding.gif" width="100%" />
 </p>
 
 ![Profile Banner](https://img.shields.io/badge/Student-3rd%20Year-blue?style=flat-square&logo=student)

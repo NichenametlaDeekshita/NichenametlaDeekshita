@@ -1,7 +1,7 @@
 # Hi there, I'm Nichenametla Deekshita 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Black%20Theme/Black%20Theme%20Coding.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="100%" />
 </p>
 
 ![Profile Banner](https://img.shields.io/badge/Student-3rd%20Year-blue?style=flat-square&logo=student)

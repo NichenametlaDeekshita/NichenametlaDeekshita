@@ -1,59 +1,135 @@
-# Hi there, I'm Nichenametla Deekshita 👋
+<div align="center">
+
+# 👾 Hey, I'm Nichenametla Deekshita
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Enthusiast;Ethical+Hacker;Java+Developer;Frontend+Developer;CTF+Player;Always+Learning+Something+New..." />
+
+<img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="100%" />
+
+![](https://komarev.com/ghpvc/?username=NichenametlaDeekshita&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+# 💀 About Me
+
+```yaml
+Name: Nichenametla Deekshita
+Role: Cyber Security Student
+Education: 3rd Year Engineering
+Languages:
+  - Java
+  - JavaScript
+  - HTML
+  - CSS
+Current Focus:
+  - Penetration Testing
+  - Web Security
+  - CTF Challenges
+Dream:
+  Become a Cyber Security Engineer
+```
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="100%" />
+
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js,python,mysql,git,github,vscode,linux,kali,bash&perline=7"/>
+
 </p>
 
-![Profile Banner](https://img.shields.io/badge/Student-3rd%20Year-blue?style=flat-square&logo=student)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Passion-orange?style=flat-square&logo=hackthebox)
+---
 
-I'm a **3rd-year student** passionate about **Cyber Security** and always exploring new technologies.  
-📄 Check out my **[Resume](https://github.com/NichenametlaDeekshita/Resume/raw/main/Deekshita_resume.pdf)** for more details!
+# 🔥 GitHub Stats
 
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NichenametlaDeekshita&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichenametlaDeekshita&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🧰 About Me
+# ⚔ GitHub Streak
 
-- 🔭 I’m currently learning **advanced Cybersecurity techniques**  
-- 🌱 I’m currently exploring **penetration testing and ethical hacking**  
-- 💬 Ask me about **Java, Frontend development, and Cyber Security**  
-- 📫 How to reach me: [Email Me](mailto:deekshitadeeksh0105@gmail.com)  
-- ⚡ Fun fact: I love solving **CTFs** and exploring **vulnerabilities**
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=NichenametlaDeekshita&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🛠 Skills & Technologies
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 🏆 GitHub Trophies
 
-![Deekshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=NichenametlaDeekshita&theme=algolia&column=7&margin-w=15&margin-h=15"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedIn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/YourInstagram)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YourTwitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+</p>
 
 ---
 
-⭐️ **Show some love by starring my repositories!**
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NichenametlaDeekshita&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/NichenametlaDeekshita/NichenametlaDeekshita/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🍎 FruitSlash | Fruit Ninja clone using OpenCV |
+| 🔒 Cyber Toolkit | Security tools collection |
+| 🌐 Portfolio | Personal Portfolio |
+| 🛡️ Vulnerability Scanner | Python Security Project |
+
+---
+
+# 🌎 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:deekshitadeeksh0105@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💻 "Hack. Learn. Secure. Repeat."
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=00F7FF&center=true&width=700&lines=Thanks+for+visiting!;Star+my+repositories⭐;Happy+Coding!"/>
+
+</div>
